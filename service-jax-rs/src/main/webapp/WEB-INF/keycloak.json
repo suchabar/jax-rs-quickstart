@@ -1,0 +1,8 @@
+{
+    "realm": "quickstart",
+    "realm-public-key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkHahYe+zAFXbfcLh66KEOllOT+cAKgUuZzfvM692RtiwrZ3U1XSYWJV9r74VxWWyJBAjVWpVx2dRWP8vRD3ydx5WcSCCeo9VVmX8FK0QUgUi4P8oNmmAqGsqBRJJcEtM5OT0BqyTIoOPlEE6G8VUCF5XkI78Tq+dN7Eg7bkm+2jSytCQ5pnLqstM/wEiIKs5fWmQ8Lj2J3g5t2AaWtRCGBsZOw/QBeNlxqtbCm2o9UivV1p3r53R1Iah+pavJK6PfAo+ZAEtl67aQkPALvOyr6s7slX4UnA+XdvdIxRK9IVu4+oQBXmD5FvruCfm9yfLRx236AJwihmfHZkhtorfOwIDAQAB",
+    "resource": "service",
+    "auth-server-url": "${keycloakUrl}",
+    "bearer-only": true,
+    "ssl-required": "external"
+}
